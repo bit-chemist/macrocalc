@@ -1,2 +1,3 @@
 # macrocalc
-A calculator for your macros
+A calculator for your macros.
+Get swole.
